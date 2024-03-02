@@ -1,0 +1,6 @@
+1/ think of adding input of task name.
+2/ adding button to display the completed tasks.
+    with options [last 24h ,last week,or last month].
+
+
+3/ think of sessions and login ans signup.
